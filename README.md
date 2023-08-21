@@ -2,8 +2,6 @@
 
 ## Análise da Zuber
 
-Luiz Guilherme Graciano Ribeiro Pereira
-
 A atividade consiste em analisar os dados coletados da Empresa Zuber, uma nova empresa de compartilhamento de caronas que está sendo lançada em Chicago. A tarefa é encontrar padrões nas informações disponíveis. O objetivo é entender as preferências dos passageiros e o impacto de fatores externos nas corridas.
 
 Trabalhando com um banco de dados, analisararei dados de concorrentes e testarei uma hipótese sobre o impacto do clima na frequência das viagens.
